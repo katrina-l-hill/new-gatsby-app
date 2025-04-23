@@ -1,6 +1,6 @@
 # Gatsby Initial Application
 
-his is a starter project built with [Gatsby](https://www.gatsbyjs.com/). This project enables you to quickly build and deploy static websites using React and GraphQL.
+This is a starter project built with [Gatsby](https://www.gatsbyjs.com/). This project enables you to quickly build and deploy static websites using React and GraphQL.
 
 ## Features
 
